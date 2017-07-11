@@ -1,0 +1,24 @@
+{
+  "name": "hexo-webpack-example",
+  "version": "0.1.0",
+  "description": "Webpack with Hexo example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CeleRn/hexo-webpack-example.git"
+  },
+  "keywords": [
+    "Hexo",
+    "Webpack",
+    "Example"
+  ],
+  "author": "CeleRn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CeleRn/hexo-webpack-example/issues"
+  },
+  "homepage": "https://github.com/CeleRn/hexo-webpack-example#readme"
+}
